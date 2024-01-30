@@ -1,6 +1,0 @@
-{
-    "python.analysis.autoFormatStrings": true,
-    "python.analysis.completeFunctionParens": true,
-    "notebook.formatOnSave.enabled": true,
-    "editor.formatOnSave": true
-}
